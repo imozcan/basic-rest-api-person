@@ -83,3 +83,8 @@ In application.properties:
 spring.application.name=basic-rest-api-person
 server.port=4545
 ```
+
+📝 License
+
+This project is licensed under the MIT License.
+
